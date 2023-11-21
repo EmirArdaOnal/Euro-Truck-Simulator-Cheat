@@ -8,6 +8,8 @@ Before using this editor, there's a crucial step for Euro Truck Simulator's save
 Here's an important step for Euro Truck Simulator save files:
 
 - **Locate your save files** by navigating to: `documents\Euro Truck Simulator 2\profiles(Profile ID)\save\autosave`
+## Website
+Access the Euro Truck Simulator Editor online: [GO](https://emirardaonal.github.io/Euro-Truck-Simulator-Cheat/)
 
 ## How to Use
 1. **Disable Steam Cloud synchronization** before using the editor (refer to the steps above).
